@@ -8,6 +8,7 @@ https://www.inflearn.com/course/%ED%99%94%EC%9D%B4%ED%8A%B8%ED%95%B4%EC%BB%A4%EA
 * 2022.03.31(목) 시작
 * 2022.04.02(토) 깃 repository 생성
 * 2022.04.02(토) 기준 10/63강, 총 학습 시간 0h 59m (inflearn 기준)
+* 중간고사 및 프로젝트 진행으로 학습 일시 중지(2020.04.02~)
 
 <br>
 목표:<br>
